@@ -2,141 +2,910 @@
     {
         "title": "Artist's Cozy Private Entry Gallary",
         "type": "Entire house",
+        "occupancy": "2",
         "rate": "4.65",
-        "reviews": "327",
+        "price": "53",
+        "reviews": "455",
         "image": "https://a0.muscache.com/im/pictures/fa41a1ef-a6b0-4e1c-9a4b-3bda4ef20221.jpg?aki_policy=large"
     },
     {
         "title": "The Main **Newly renovated January 2020**",
         "type": "Entire house",
+        "occupancy": "2",
         "rate": "4.41",
-        "reviews": "471",
+        "price": "65",
+        "reviews": "274",
         "image": "https://a0.muscache.com/im/pictures/dd1b0845-1918-4880-98aa-64825eb538b1.jpg?aki_policy=large"
     },
     {
-        "title": "Tropical Vibe 1 (Private Room)",
-        "type": "Private room",
-        "rate": "4.67",
-        "reviews": "253",
-        "image": "https://a0.muscache.com/im/pictures/28d92f0b-0204-476d-bad7-fb15502c4b13.jpg?aki_policy=large"
-    },
-    {
         "title": "PERFECTION IN THE HEART OF DOWNTOWN",
-        "type": "Entire flat",
+        "type": "Entire apartment",
+        "occupancy": "3",
         "rate": "4.71",
-        "reviews": "66",
+        "price": "71",
+        "reviews": "60",
         "image": "https://a0.muscache.com/im/pictures/afcb0f08-0a3f-4729-a776-4634c4ec533c.jpg?aki_policy=large"
     },
     {
-        "title": "Clean Private Suite - 5 min Walk to Everything",
-        "type": "Entire guest suite",
-        "rate": "4.62",
-        "reviews": "260",
-        "image": "https://a0.muscache.com/im/pictures/896a289e-5de4-4560-b703-3d2e623da384.jpg?aki_policy=large"
-    },
-    {
-        "title": "Main Street Vineyard",
-        "type": "Private room",
-        "rate": "4.71",
-        "reviews": "490",
-        "image": "https://a0.muscache.com/im/pictures/1179386/31213ae4_original.jpg?aki_policy=large"
+        "title": "Entire One Bedroom Suite Downtown - With Parking",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.69",
+        "price": "70",
+        "reviews": "201",
+        "image": "https://a0.muscache.com/im/pictures/eb98298e-f0bb-4572-9a79-836393ebaa37.jpg?aki_policy=large"
     },
     {
         "title": "Modern Private Room",
         "type": "Entire guest suite",
+        "occupancy": "1",
         "rate": "4.84",
-        "reviews": "64",
+        "price": "60",
+        "reviews": "150",
         "image": "https://a0.muscache.com/im/pictures/ef8da256-988b-4110-a3f8-3d1db4b77b00.jpg?aki_policy=large"
     },
     {
-        "title": "Nice House in Vancouver",
+        "title": "Main Street Vineyard",
         "type": "Private room",
-        "rate": "4.59",
-        "reviews": "136",
-        "image": "https://a0.muscache.com/im/pictures/bb8016a4-bb4d-4173-b666-99e13ec0a561.jpg?aki_policy=large"
+        "occupancy": "2",
+        "rate": "4.71",
+        "price": "75",
+        "reviews": "435",
+        "image": "https://a0.muscache.com/im/pictures/1179386/31213ae4_original.jpg?aki_policy=large"
     },
     {
-        "title": "Entire One Bedroom Suite Downtown - With Parking",
-        "type": "Entire apartment",
-        "rate": "4.69",
-        "reviews": "292",
-        "image": "https://a0.muscache.com/im/pictures/eb98298e-f0bb-4572-9a79-836393ebaa37.jpg?aki_policy=large"
-    },
-    {
-        "title": "Quiet Master Bdrm/24hr Pool, gym, hottub, sauna",
-        "type": "Private room",
-        "rate": "4.74",
-        "reviews": "125",
-        "image": "https://a0.muscache.com/im/pictures/b5c6849b-e3c2-4e91-ad23-9995ddb940d2.jpg?aki_policy=large"
+        "title": "Clean Private Suite - 5 min Walk to Everything",
+        "type": "Entire guest suite",
+        "occupancy": "1",
+        "rate": "4.62",
+        "price": "55",
+        "reviews": "178",
+        "image": "https://a0.muscache.com/im/pictures/896a289e-5de4-4560-b703-3d2e623da384.jpg?aki_policy=large"
     },
     {
         "title": "Bright and Clean 2 bedroom Garden Suite",
         "type": "Entire guest suite",
+        "occupancy": "2",
         "rate": "4.88",
-        "reviews": "67",
+        "price": "75",
+        "reviews": "101",
         "image": "https://a0.muscache.com/im/pictures/e2559672-bd0f-48f8-9890-81cfa4bafb93.jpg?aki_policy=large"
     },
     {
+        "title": "Yaletown Deluxe Studio Condominium",
+        "type": "Entire condominium",
+        "occupancy": "2",
+        "rate": "4.74",
+        "price": "65",
+        "reviews": "464",
+        "image": "https://a0.muscache.com/im/pictures/72469d16-6d62-4827-a6bb-67940d9217eb.jpg?aki_policy=large"
+    },
+    {
         "title": "Elegant Private Suite off Broadway",
-        "type": "Entire flat",
+        "type": "Entire apartment",
+        "occupancy": "1",
         "rate": "4.93",
-        "reviews": "298",
+        "price": "50",
+        "reviews": "380",
         "image": "https://a0.muscache.com/im/pictures/70450114/9c9856ea_original.jpg?aki_policy=large"
     },
     {
-        "title": "Central DT! Free Gated Parking",
-        "type": "Entire flat",
-        "rate": "4.48",
-        "reviews": "71",
-        "image": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-31864754-unapproved/original/2de88969-ca50-4616-bf26-ad91b381496b.JPEG?aki_policy=large"
+        "title": "Tropical Vibe 1 (Private Room)",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.67",
+        "price": "38",
+        "reviews": "19",
+        "image": "https://a0.muscache.com/im/pictures/28d92f0b-0204-476d-bad7-fb15502c4b13.jpg?aki_policy=large"
     },
     {
-        "title": "❤️MC11 Vancouver Home Hotel",
-        "type": "Private room",
-        "rate": "4.56",
-        "reviews": "18",
-        "image": "https://a0.muscache.com/im/pictures/f7eb376d-29ed-4d3d-9eda-34ff9e30815a.jpg?aki_policy=large"
+        "title": "Central DT! Free Gated Parking",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.48",
+        "price": "49",
+        "reviews": "53",
+        "image": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-31864754-unapproved/original/2de88969-ca50-4616-bf26-ad91b381496b.JPEG?aki_policy=large"
     },
     {
         "title": "East Side Cottage",
         "type": "Entire cottage",
+        "occupancy": "1",
         "rate": "4.98",
-        "reviews": "43",
+        "price": "80",
+        "reviews": "490",
         "image": "https://a0.muscache.com/im/pictures/e1acbc69-6f66-4189-ba7a-afac1b6fa805.jpg?aki_policy=large"
     },
     {
-        "title": "Coveted BoHo 1BR \"West of Denman\" (downtown)",
-        "type": "Entire flat",
-        "rate": "4.84",
-        "reviews": "213",
-        "image": "https://a0.muscache.com/im/pictures/17e97cd7-2257-4b1d-834c-c4c3c80d659c.jpg?aki_policy=large"
+        "title": "Total Privacy & Separate Entry in a Clean, Curated Space",
+        "type": "Entire guest suite",
+        "occupancy": "1",
+        "rate": "4.94",
+        "price": "80",
+        "reviews": "222",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/a6bd3fc3-eaf8-45d7-a733-b6f5fefeb145.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
     },
     {
-        "title": "❤️Vancouver Adera Home Hotel RM7",
-        "type": "Private room",
-        "rate": "4.67",
-        "reviews": "61",
-        "image": "https://a0.muscache.com/im/pictures/2f5105c9-7176-4dd2-aeb6-6543079cb6d0.jpg?aki_policy=large"
+        "title": "Deluxe Junior One Bedroom (2 Beds)",
+        "type": "Entire condominium",
+        "occupancy": "2",
+        "rate": "4.83",
+        "price": "80",
+        "reviews": "141",
+        "image": "https://a0.muscache.com/im/pictures/15403280/84fdc79c_original.jpg?aki_policy=large"
     },
     {
-        "title": "Heart of Downtown, Gym+Pool, Amazing View!",
-        "type": "Private room",
-        "rate": "4.84",
-        "reviews": "245",
-        "image": "https://a0.muscache.com/im/pictures/73de7334-002c-4fd3-b8ba-064d1ff41bb3.jpg?aki_policy=large"
-    },
-    {
-        "title": "Yaletown Deluxe Studio Condominium",
+        "title": "FIRST CLASS LUXURY LIVING IN DOWNTOWN CITY CENTER",
         "type": "Entire apartment",
-        "rate": "4.74",
-        "reviews": "134",
-        "image": "https://a0.muscache.com/im/pictures/72469d16-6d62-4827-a6bb-67940d9217eb.jpg?aki_policy=large"
+        "occupancy": "2",
+        "rate": "4.81",
+        "price": "52",
+        "reviews": "413",
+        "image": "https://a0.muscache.com/im/pictures/dffbbfbf-d4e1-469a-aac0-4c9312240c82.jpg?aki_policy=large"
+    },
+    {
+        "title": "Coveted BoHo 1BR \"West of Denman\" (downtown)",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.84",
+        "price": "49",
+        "reviews": "500",
+        "image": "https://a0.muscache.com/im/pictures/17e97cd7-2257-4b1d-834c-c4c3c80d659c.jpg?aki_policy=large"
     },
     {
         "title": "Charming garden level studio. Completely private.",
         "type": "Entire house",
+        "occupancy": "1",
         "rate": "4.81",
-        "reviews": "311",
+        "price": "65",
+        "reviews": "317",
         "image": "https://a0.muscache.com/im/pictures/ba6303db-e160-4152-b1b1-4f0f2641e02e.jpg?aki_policy=large"
+    },
+    {
+        "title": "E1 - Chic Downtown Condominium near Robson Street Boutiques",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "5.0",
+        "price": "100",
+        "reviews": "439",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/7a55ebcb-38ac-4175-ba7c-4832e2b98149.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "Tropical Vibe 2 (Private Room)",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.66",
+        "price": "37",
+        "reviews": "503",
+        "image": "https://a0.muscache.com/im/pictures/7e7d4a7d-5e55-46d1-97f7-0445b91e64e2.jpg?aki_policy=large"
+    },
+    {
+        "title": "Central Comfortable 3 Bedroom House in Vancouver",
+        "type": "Entire house",
+        "occupancy": "5",
+        "rate": "4.54",
+        "price": "33",
+        "reviews": "79",
+        "image": "https://a0.muscache.com/im/pictures/945be2f4-a13e-43d1-97b0-bd45da07fd6d.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy Private Studio Near The Drive",
+        "type": "Entire house",
+        "occupancy": "1",
+        "rate": "4.69",
+        "price": "51",
+        "reviews": "29",
+        "image": "https://a0.muscache.com/im/pictures/41006f4b-8450-471b-8299-1fe060421a19.jpg?aki_policy=large"
+    },
+    {
+        "title": "Heart of Downtown, Gym+Pool, Amazing View!",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.84",
+        "price": "57",
+        "reviews": "54",
+        "image": "https://a0.muscache.com/im/pictures/73de7334-002c-4fd3-b8ba-064d1ff41bb3.jpg?aki_policy=large"
+    },
+    {
+        "title": "The Garden Quarter in Kitsilano",
+        "type": "Entire guest suite",
+        "occupancy": "2",
+        "rate": "4.78",
+        "price": "66",
+        "reviews": "211",
+        "image": "https://a0.muscache.com/im/pictures/6c39b4a1-14ce-4f46-a29b-ef8f8ef4550e.jpg?aki_policy=large"
+    },
+    {
+        "title": "1 bedroom off Trendy Main St",
+        "type": "Entire house",
+        "occupancy": "1",
+        "rate": "4.22",
+        "price": "40",
+        "reviews": "33",
+        "image": "https://a0.muscache.com/im/pictures/da42e936-f248-40c4-9725-7b0cccb4119f.jpg?aki_policy=large"
+    },
+    {
+        "title": "Casa Serena",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.94",
+        "price": "95",
+        "reviews": "2",
+        "image": "https://a0.muscache.com/im/pictures/bcdd163a-2b6a-4ea9-8abb-b4a4cf826edd.jpg?aki_policy=large"
+    },
+    {
+        "title": "Nice House in Vancouver",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.59",
+        "price": "33",
+        "reviews": "413",
+        "image": "https://a0.muscache.com/im/pictures/bb8016a4-bb4d-4173-b666-99e13ec0a561.jpg?aki_policy=large"
+    },
+    {
+        "title": "❤️Vancouver Adera Home Hotel RM7",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.67",
+        "price": "32",
+        "reviews": "146",
+        "image": "https://a0.muscache.com/im/pictures/2f5105c9-7176-4dd2-aeb6-6543079cb6d0.jpg?aki_policy=large"
+    },
+    {
+        "title": "Private Comfort & Amazing Views - Infant upstairs!",
+        "type": "Entire house",
+        "occupancy": "2",
+        "rate": "4.70",
+        "price": "45",
+        "reviews": "20",
+        "image": "https://a0.muscache.com/im/pictures/885bd25a-7c23-4477-9459-22a69eb598f4.jpg?aki_policy=large"
+    },
+    {
+        "title": "AMAZING BRIGHT VIEW BEST LOCATION 2BR+2BA+PARKING",
+        "type": "Entire apartment",
+        "occupancy": "3",
+        "rate": "4.64",
+        "price": "88",
+        "reviews": "124",
+        "image": "https://a0.muscache.com/im/pictures/d189599e-578a-43a6-8239-e62770bd587d.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy Comfortable Basement Suite",
+        "type": "Entire house",
+        "occupancy": "1",
+        "rate": "4.75",
+        "price": "60",
+        "reviews": "47",
+        "image": "https://a0.muscache.com/im/pictures/27ea5ec2-35dd-4e86-adbc-68246feb2d3f.jpg?aki_policy=large"
+    },
+    {
+        "title": "❤️MC11 Vancouver Home Hotel",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.56",
+        "price": "29",
+        "reviews": "342",
+        "image": "https://a0.muscache.com/im/pictures/f7eb376d-29ed-4d3d-9eda-34ff9e30815a.jpg?aki_policy=large"
+    },
+    {
+        "title": "Vintage Guest Loft in Converted Warehouse",
+        "type": "Entire loft",
+        "occupancy": "1",
+        "rate": "4.95",
+        "price": "151",
+        "reviews": "450",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/24fa98ba-77c8-43ee-88d9-d60fc74c5f35.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "Downtown Condo+freeparking+CentralAC, sleeps 2-5",
+        "type": "Entire condominium",
+        "occupancy": "3",
+        "rate": "4.79",
+        "price": "45",
+        "reviews": "33",
+        "image": "https://a0.muscache.com/im/pictures/0dbdf6a2-a485-4926-a77d-bde64ba33423.jpg?aki_policy=large"
+    },
+    {
+        "title": "Amazing Full WaterView,2BR+2BA+Parking+AC",
+        "type": "Entire condominium",
+        "occupancy": "3",
+        "rate": "4.80",
+        "price": "33",
+        "reviews": "36",
+        "image": "https://a0.muscache.com/im/pictures/c7b338e9-2e09-4e77-a78b-11449fb47e1b.jpg?aki_policy=large"
+    },
+    {
+        "title": "Beautiful private room in East Van",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.75",
+        "price": "35",
+        "reviews": "511",
+        "image": "https://a0.muscache.com/im/pictures/633f3858-bec1-4333-ad9e-aab884dc5c4b.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy Studio in Mount Pleasant",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.96",
+        "price": "70",
+        "reviews": "508",
+        "image": "https://a0.muscache.com/im/pictures/6ea65e1c-6857-4646-9d9f-60758fa1140f.jpg?aki_policy=large"
+    },
+    {
+        "title": "Sit by the Fireplace of this Modern Studio",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "5.0",
+        "price": "95",
+        "reviews": "169",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/0f24a453-5fcf-4233-a5d1-7967d93e5751.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "Amazing 1 BR Loft in Gastown + FREE Parking",
+        "type": "Entire loft",
+        "occupancy": "1",
+        "rate": "4.28",
+        "price": "50",
+        "reviews": "216",
+        "image": "https://a0.muscache.com/im/pictures/3a3dc60a-7916-4654-9a2f-69ae6cf797ce.jpg?aki_policy=large"
+    },
+    {
+        "title": "Best central Mt. Pleasant 2 bedroom w park nearby",
+        "type": "Entire apartment",
+        "occupancy": "3",
+        "rate": "4.78",
+        "price": "79",
+        "reviews": "345",
+        "image": "https://a0.muscache.com/im/pictures/df937cfe-577e-4f9d-b23b-6eeea1971e97.jpg?aki_policy=large"
+    },
+    {
+        "title": "Quiet Master Bdrm/24hr Pool, gym, hottub, sauna",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.74",
+        "price": "14",
+        "reviews": "144",
+        "image": "https://a0.muscache.com/im/pictures/b5c6849b-e3c2-4e91-ad23-9995ddb940d2.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy Bedroom, 1' walk to Skytrain",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.78",
+        "price": "50",
+        "reviews": "311",
+        "image": "https://a0.muscache.com/im/pictures/7ad1af39-c64d-460f-8fcd-3c8382762dba.jpg?aki_policy=large"
+    },
+    {
+        "title": "The Flats on Georgia",
+        "type": "Entire loft",
+        "occupancy": "2",
+        "rate": "4.60",
+        "price": "88",
+        "reviews": "502",
+        "image": "https://a0.muscache.com/im/pictures/82194927-d721-4e2a-a179-a40a039c7104.jpg?aki_policy=large"
+    },
+    {
+        "title": "Joy House Suite 2 - Heart of Downtown",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.24",
+        "price": "60",
+        "reviews": "541",
+        "image": "https://a0.muscache.com/im/pictures/f3be0852-6ba3-4841-8314-1895389e8709.jpg?aki_policy=large"
+    },
+    {
+        "title": "Large, Modern & Private Space",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.91",
+        "price": "89",
+        "reviews": "516",
+        "image": "https://a0.muscache.com/im/pictures/0796d04e-20ab-4b2e-8102-fba5acd35ced.jpg?aki_policy=large"
+    },
+    {
+        "title": "1 BR LOFT / YALETOWN/ PARKING",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.65",
+        "price": "69",
+        "reviews": "436",
+        "image": "https://a0.muscache.com/im/pictures/1f5dc280-5fa7-47a1-b676-7a1aed441b66.jpg?aki_policy=large"
+    },
+    {
+        "title": "Unique Loft Central Location in Downtown Vancouver",
+        "type": "Entire loft",
+        "occupancy": "1",
+        "rate": "4.94",
+        "price": "110",
+        "reviews": "216",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/52c5295e-0bf9-4a6e-9557-df7739067112.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "Garden Suite Character House",
+        "type": "Entire house",
+        "occupancy": "1",
+        "rate": "4.89",
+        "price": "72",
+        "reviews": "359",
+        "image": "https://a0.muscache.com/im/pictures/0364bea1-997d-439f-9171-f03c5ac1867e.jpg?aki_policy=large"
+    },
+    {
+        "title": "Private studio townhouse, central downtown Van!",
+        "type": "Entire townhouse",
+        "occupancy": "1",
+        "rate": "4.81",
+        "price": "40",
+        "reviews": "372",
+        "image": "https://a0.muscache.com/im/pictures/00d4cdab-5957-4fc7-9bbc-74a58e9fa379.jpg?aki_policy=large"
+    },
+    {
+        "title": "Mount Pleasant Garden Suite - Convenient Area!",
+        "type": "Entire house",
+        "occupancy": "2",
+        "rate": "4.75",
+        "price": "55",
+        "reviews": "161",
+        "image": "https://a0.muscache.com/im/pictures/aa3eb085-ca79-4eac-a821-f62451424a10.jpg?aki_policy=large"
+    },
+    {
+        "title": "Trendy City Center Downtown Suite, Great Views",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.64",
+        "price": "50",
+        "reviews": "84",
+        "image": "https://a0.muscache.com/im/pictures/bc067a2e-2780-4ac8-b3e3-35ac7644893b.jpg?aki_policy=large"
+    },
+    {
+        "title": "Amazing Vancouver Views from a Mid-Century Building",
+        "type": "Entire condominium",
+        "occupancy": "2",
+        "rate": "4.97",
+        "price": "114",
+        "reviews": "32",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/0b91e1e7-713b-4933-b557-bf47dedff66e.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "❤️MC08 Vancouver McBain Home Hotel",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.50",
+        "price": "33",
+        "reviews": "96",
+        "image": "https://a0.muscache.com/im/pictures/096ed877-a650-4029-be97-7c473f18f36e.jpg?aki_policy=large"
+    },
+    {
+        "title": "East Vancouver House",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.64",
+        "price": "33",
+        "reviews": "505",
+        "image": "https://a0.muscache.com/im/pictures/eb6134c1-2a93-4f43-91a4-3e22bd071cc5.jpg?aki_policy=large"
+    },
+    {
+        "title": "LOCATION!!! RENOVATED!!! SLEEPS 2-4!!",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.84",
+        "price": "70",
+        "reviews": "482",
+        "image": "https://a0.muscache.com/im/pictures/44221ada-950e-4aa6-b222-104e482cb2ba.jpg?aki_policy=large"
+    },
+    {
+        "title": "Wonderful Downtown Condo, Great Views, Location",
+        "type": "Entire condominium",
+        "occupancy": "2",
+        "rate": "4.51",
+        "price": "85",
+        "reviews": "247",
+        "image": "https://a0.muscache.com/im/pictures/1613c58c-66ae-4220-b2f7-bead575c4d60.jpg?aki_policy=large"
+    },
+    {
+        "title": "The Nook in Kitsilano",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.89",
+        "price": "47",
+        "reviews": "332",
+        "image": "https://a0.muscache.com/im/pictures/11085326/61f60b20_original.jpg?aki_policy=large"
+    },
+    {
+        "title": "New Entire Luxury Cozy Studio in heart of Downtown",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.38",
+        "price": "50",
+        "reviews": "187",
+        "image": "https://a0.muscache.com/im/pictures/97d4e66c-e31e-4c48-82ae-f04275274600.jpg?aki_policy=large"
+    },
+    {
+        "title": "Gastown/Railtown Loft in Vancouver",
+        "type": "Entire loft",
+        "occupancy": "1",
+        "rate": "4.95",
+        "price": "110",
+        "reviews": "455",
+        "image": "https://a0.muscache.com/im/pictures/bc5cb80c-1668-4e5a-b573-baabb854be7e.jpg?aki_policy=large"
+    },
+    {
+        "title": "Upscale Comfort on the Drive, Family-Friendly",
+        "type": "Entire house",
+        "occupancy": "3",
+        "rate": "4.98",
+        "price": "79",
+        "reviews": "354",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/2790ed0f-64b5-448d-b28c-ff4502df37b5.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "❤️MC06 Vancouver Mcbain Home Hotel",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.36",
+        "price": "47",
+        "reviews": "164",
+        "image": "https://a0.muscache.com/im/pictures/6624235d-4897-4fcd-ad1d-e1e3aeb1fbbc.jpg?aki_policy=large"
+    },
+    {
+        "title": "3 Bdr in quiet building. 24h Pool/gym/sauna/hottub",
+        "type": "Entire condominium",
+        "occupancy": "3",
+        "rate": "4.75",
+        "price": "13",
+        "reviews": "194",
+        "image": "https://a0.muscache.com/im/pictures/852216f4-d746-41e3-9007-2f25b9a20b1e.jpg?aki_policy=large"
+    },
+    {
+        "title": "Quiet Bedroom/balcony. 24 hr pool/gym/hottub/sauna",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.78",
+        "price": "49",
+        "reviews": "174",
+        "image": "https://a0.muscache.com/im/pictures/98a2ea72-ae3b-4cdd-9d62-868bdb0a9fb1.jpg?aki_policy=large"
+    },
+    {
+        "title": "Modern Guesthouse Suite 5 min to train, no kitchen",
+        "type": "Entire guest suite",
+        "occupancy": "1",
+        "rate": "4.91",
+        "price": "50",
+        "reviews": "32",
+        "image": "https://a0.muscache.com/im/pictures/21a8da40-886e-4e06-883d-7e7209b24fbc.jpg?aki_policy=large"
+    },
+    {
+        "title": "Downtown❤️Chill with Stunning Mountain View",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.79",
+        "price": "69",
+        "reviews": "125",
+        "image": "https://a0.muscache.com/im/pictures/5fb5ecca-44f5-4f25-975b-da8460a9d462.jpg?aki_policy=large"
+    },
+    {
+        "title": "Head to Main Street for This Stylishly Renovated Apartment",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.89",
+        "price": "85",
+        "reviews": "395",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/366eddb1-ecbf-4400-a2a9-3d97508fa7e2.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "The Fig Tree Suite- Main Street- Light Breakfast",
+        "type": "Entire guest suite",
+        "occupancy": "1",
+        "rate": "4.78",
+        "price": "80",
+        "reviews": "486",
+        "image": "https://a0.muscache.com/im/pictures/4c5b3626-55f8-487a-b974-66be948f97d0.jpg?aki_policy=large"
+    },
+    {
+        "title": "BRIGHT, BEAUTIFUL, CENTRAL DOWNTOWN LOCATION",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "5.0",
+        "price": "100",
+        "reviews": "490",
+        "image": "https://a0.muscache.com/im/pictures/3e3b86d8-8961-438e-9dce-52e4b8dd2732.jpg?aki_policy=large"
+    },
+    {
+        "title": "270 degree ocean view Condo in Downtown Vancouver",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.80",
+        "price": "69",
+        "reviews": "336",
+        "image": "https://a0.muscache.com/im/pictures/18ce31ce-bb4a-4ab0-9447-641eb86a1d0b.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy Apartment in Downtown Vancouver",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.67",
+        "price": "60",
+        "reviews": "504",
+        "image": "https://a0.muscache.com/im/pictures/a1622f09-e47d-49ca-895d-a259cf9d35c3.jpg?aki_policy=large"
+    },
+    {
+        "title": "PANORAMIC VIEW, BEST LOCATION DOWNTOWN CITY LIVING",
+        "type": "Entire condominium",
+        "occupancy": "3",
+        "rate": "4.82",
+        "price": "108",
+        "reviews": "188",
+        "image": "https://a0.muscache.com/im/pictures/1fa259a6-5598-4def-b642-a9804506b7a2.jpg?aki_policy=large"
+    },
+    {
+        "title": "Unique New York style Loft Vancouver+wifi+Netflix",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.62",
+        "price": "85",
+        "reviews": "341",
+        "image": "https://a0.muscache.com/im/pictures/0f617c38-8c62-4772-a9c9-fdc2d60bf42a.jpg?aki_policy=large"
+    },
+    {
+        "title": "cozy 1 bedroom suite near main street",
+        "type": "Entire house",
+        "occupancy": "2",
+        "rate": "4.85",
+        "price": "69",
+        "reviews": "300",
+        "image": "https://a0.muscache.com/im/pictures/357a905d-67e2-4670-b545-d8ca0ff21635.jpg?aki_policy=large"
+    },
+    {
+        "title": "Sanitized Downtown Vancouver Studio",
+        "type": "Entire condominium",
+        "occupancy": "2",
+        "rate": "4.96",
+        "price": "59",
+        "reviews": "194",
+        "image": "https://a0.muscache.com/im/pictures/ed2d7ec3-878b-42b5-88ed-8332598c13d1.jpg?aki_policy=large"
+    },
+    {
+        "title": "Modern Studio+ free parking+nice view@DT Vancouver",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.75",
+        "price": "59",
+        "reviews": "184",
+        "image": "https://a0.muscache.com/im/pictures/f226ba56-f7bb-4ba8-bbcd-4acf64b36a1f.jpg?aki_policy=large"
+    },
+    {
+        "title": "Very Convenient Mini-suite",
+        "type": "Entire guest suite",
+        "occupancy": "1",
+        "rate": "4.74",
+        "price": "44",
+        "reviews": "114",
+        "image": "https://a0.muscache.com/im/pictures/83629715-c062-40af-8ebe-03c6f9c5002b.jpg?aki_policy=large"
+    },
+    {
+        "title": "Gastown Chic Loft- 16FT Ceilings VIEWS",
+        "type": "Entire loft",
+        "occupancy": "2",
+        "rate": "4.65",
+        "price": "50",
+        "reviews": "344",
+        "image": "https://a0.muscache.com/im/pictures/70624fe9-2b6c-47ec-a986-4d52db5c2f8f.jpg?aki_policy=large"
+    },
+    {
+        "title": "Private Entrance 1BR Suite. Centrally Located",
+        "type": "Entire guest suite",
+        "occupancy": "1",
+        "rate": "4.94",
+        "price": "55",
+        "reviews": "390",
+        "image": "https://a0.muscache.com/im/pictures/1532b8ef-b6a4-4139-9078-cb6ab0ed4878.jpg?aki_policy=large"
+    },
+    {
+        "title": "Clean & Cozy private room in Heart of Downtown",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.62",
+        "price": "75",
+        "reviews": "245",
+        "image": "https://a0.muscache.com/im/pictures/f77d2653-17cf-4e4e-82fe-23d0075755fe.jpg?aki_policy=large"
+    },
+    {
+        "title": "Water View❤️5 min Skytrain+Stadium+Walk Everywhere",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.78",
+        "price": "69",
+        "reviews": "372",
+        "image": "https://a0.muscache.com/im/pictures/a89decbc-eefe-4c5d-bcd9-65d4560c0101.jpg?aki_policy=large"
+    },
+    {
+        "title": "East Vancouver Home",
+        "type": "Entire guesthouse",
+        "occupancy": "2",
+        "rate": "4.70",
+        "price": "80",
+        "reviews": "342",
+        "image": "https://a0.muscache.com/im/pictures/9585f096-8772-4bf1-9908-3ad8131ba997.jpg?aki_policy=large"
+    },
+    {
+        "title": "Bright room, Amazing View @Highrise+ Gym & Pool",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.79",
+        "price": "52",
+        "reviews": "237",
+        "image": "https://a0.muscache.com/im/pictures/61670e55-c745-430e-b81c-0393dd7aa74c.jpg?aki_policy=large"
+    },
+    {
+        "title": "❤️MC10 Vancouver McBain Home Hotel",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.44",
+        "price": "28",
+        "reviews": "373",
+        "image": "https://a0.muscache.com/im/pictures/a7426b63-44d1-4fb3-b78b-0aa676eb7050.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy Bedroom with Queen Bed",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.71",
+        "price": "25",
+        "reviews": "26",
+        "image": "https://a0.muscache.com/im/pictures/17826eae-73af-448b-874d-8e4aa5421925.jpg?aki_policy=large"
+    },
+    {
+        "title": "BEST LOCATION, BRILLIANT VIEW, DOWNTOWN LIVING",
+        "type": "Entire apartment",
+        "occupancy": "3",
+        "rate": "4.60",
+        "price": "83",
+        "reviews": "311",
+        "image": "https://a0.muscache.com/im/pictures/24a006cf-9083-4be7-9a9a-0d21e15ad0ba.jpg?aki_policy=large"
+    },
+    {
+        "title": "Yaletown condo, hot tub, walk to shops, beaches!",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.83",
+        "price": "50",
+        "reviews": "108",
+        "image": "https://a0.muscache.com/im/pictures/dc83d6ff-0dec-4feb-87bc-0ca7bff06a1e.jpg?aki_policy=large"
+    },
+    {
+        "title": "Sunny Spacious Downtown Pool Hot Tub Gym Netflix",
+        "type": "Entire condominium",
+        "occupancy": "3",
+        "rate": "4.69",
+        "price": "93",
+        "reviews": "139",
+        "image": "https://a0.muscache.com/im/pictures/6a2b0e54-f171-4e53-a061-e1e36e3b90bc.jpg?aki_policy=large"
+    },
+    {
+        "title": "Prime Upscale Downtown Location W/ A 99 Walk Score",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.87",
+        "price": "98",
+        "reviews": "59",
+        "image": "https://a0.muscache.com/im/pictures/f16b470d-8051-4ff0-a8c7-df23026630f3.jpg?aki_policy=large"
+    },
+    {
+        "title": "Gastown Loft Escape- AC Netflix Courtyard BBQ",
+        "type": "Entire loft",
+        "occupancy": "1",
+        "rate": "4.95",
+        "price": "100",
+        "reviews": "392",
+        "image": "https://a0.muscache.com/im/pictures/0262e27d-ac50-44f7-bc1a-fb3148ea13ee.jpg?aki_policy=large"
+    },
+    {
+        "title": "Unbeatable VIEWS! Newly Designed Condo w/Parking",
+        "type": "Entire condominium",
+        "occupancy": "4",
+        "rate": "4.77",
+        "price": "170",
+        "reviews": "366",
+        "image": "https://a0.muscache.com/im/pictures/23e97f80-0073-4ddf-8ed6-a1bcf8f0f8cf.jpg?aki_policy=large"
+    },
+    {
+        "title": "Joy House Room 5 - Downtown",
+        "type": "Private room",
+        "occupancy": "2",
+        "rate": "4.0",
+        "price": "42",
+        "reviews": "60",
+        "image": "https://a0.muscache.com/im/pictures/395a6412-0148-43c9-88df-7a146d613d02.jpg?aki_policy=large"
+    },
+    {
+        "title": "Cozy, clean and beautiful room",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.80",
+        "price": "30",
+        "reviews": "295",
+        "image": "https://a0.muscache.com/im/pictures/8fbd80fd-17b9-42df-9f54-f51e7e90f5a1.jpg?aki_policy=large"
+    },
+    {
+        "title": "Two-storied and cosy condominium in downtown.",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.68",
+        "price": "109",
+        "reviews": "414",
+        "image": "https://a0.muscache.com/im/pictures/75f9a465-fb8a-4c72-91b5-48135b2298a1.jpg?aki_policy=large"
+    },
+    {
+        "title": "Huge, Modern Loft in the Heart of the City",
+        "type": "Entire loft",
+        "occupancy": "5",
+        "rate": "4.91",
+        "price": "99",
+        "reviews": "63",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/e814d141-6005-4b74-9697-9c7a65656ac5.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "Budget cozy apartment in heart of downtown",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.39",
+        "price": "80",
+        "reviews": "264",
+        "image": "https://a0.muscache.com/im/pictures/2a7de6c5-a29f-4391-9e44-99e2ed850816.jpg?aki_policy=large"
+    },
+    {
+        "title": "Beautiful condo in the heart of downtown Vancouver",
+        "type": "Entire apartment",
+        "occupancy": "2",
+        "rate": "4.81",
+        "price": "100",
+        "reviews": "531",
+        "image": "https://a0.muscache.com/im/pictures/516ef3a9-e258-4b0a-8e39-36b2bba2e752.jpg?aki_policy=large"
+    },
+    {
+        "title": "Walk to Commercial Drive Skytrain",
+        "type": "Entire house",
+        "occupancy": "2",
+        "rate": "4.81",
+        "price": "60",
+        "reviews": "336",
+        "image": "https://a0.muscache.com/im/pictures/ddc4cc64-4ac9-4b87-b854-5f787c1859a4.jpg?aki_policy=large"
+    },
+    {
+        "title": "Lofty Studio Next to Historic Gastown",
+        "type": "Entire condominium",
+        "occupancy": "1",
+        "rate": "4.86",
+        "price": "90",
+        "reviews": "327",
+        "image": "https://a0.muscache.com/4ea/air/v2/pictures/38030e1a-952c-41f0-bf3a-cfba5144dd47.jpg?t=r:w1200-h720-sfit,e:fjpg-c90"
+    },
+    {
+        "title": "Spacious private room with private bathroom",
+        "type": "Private room",
+        "occupancy": "1",
+        "rate": "4.66",
+        "price": "40",
+        "reviews": "520",
+        "image": "https://a0.muscache.com/im/pictures/c2386da2-0790-4a8c-a9f7-30e8c4557c5c.jpg?aki_policy=large"
+    },
+    {
+        "title": "Gorgeous WaterView w/ parking - DT next to Arenas",
+        "type": "Entire apartment",
+        "occupancy": "4",
+        "rate": "4.78",
+        "price": "115",
+        "reviews": "172",
+        "image": "https://a0.muscache.com/im/pictures/79b8be1d-babc-46f5-97ca-420b40941986.jpg?aki_policy=large"
+    },
+    {
+        "title": "Modern suite in the best part of Vancouver.",
+        "type": "Entire apartment",
+        "occupancy": "1",
+        "rate": "4.88",
+        "price": "69",
+        "reviews": "467",
+        "image": "https://a0.muscache.com/im/pictures/3aa220e4-0ce5-44c9-9068-0f529cedc0b5.jpg?aki_policy=large"
     }
 ]
